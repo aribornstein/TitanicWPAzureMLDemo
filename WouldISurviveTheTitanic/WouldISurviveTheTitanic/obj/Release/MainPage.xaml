@@ -1,0 +1,76 @@
+﻿<Page
+    x:Class="WouldISurviveTheTitanic.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WouldISurviveTheTitanic"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.1*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock  Grid.ColumnSpan="2" Height="128"  TextWrapping="Wrap" Text="Would I Have Survived?" VerticalAlignment="Top" FontSize="44" FontWeight="Bold" />
+
+
+        <TextBlock  Grid.Row="1" Text="Ticket Fare:" x:Name="TicketFareL"  VerticalAlignment="Center"  FontSize="22" />
+        <TextBox   Grid.Row="1" Grid.Column="1" x:Name="TicketFare" InputScope="Number"/>
+
+        <TextBlock  Grid.Row="2" Text="Ticket Class:" x:Name="TicketClassL"  VerticalAlignment="Center"  FontSize="22" />
+        <ComboBox  Grid.Row="2" Grid.RowSpan="5" Grid.Column="1" x:Name="TicketClass" Canvas.ZIndex="4">
+            <x:String>1</x:String>
+            <x:String>2</x:String>
+            <x:String>3</x:String>
+        </ComboBox>
+
+        <TextBlock  Grid.Row="3" Text="Ticket Port:" x:Name="TicketPortL"  VerticalAlignment="Center"  FontSize="22" />
+        <ComboBox   Grid.Row="3" Grid.RowSpan="5" Grid.Column="1"  x:Name="TicketPort" Canvas.ZIndex="3">
+            <x:String>C</x:String>
+            <x:String>S</x:String>
+            <x:String>Q</x:String>
+        </ComboBox>
+
+        <TextBlock  Grid.Row="4" Text="Gender:" x:Name="GenderL"  VerticalAlignment="Center"  FontSize="22" />
+        <ComboBox   Grid.Row="4" Grid.RowSpan="3" Grid.Column="1" x:Name="Gender" Canvas.ZIndex="2">
+            <x:String>Male</x:String>
+            <x:String>Female</x:String>
+        </ComboBox>
+
+        <TextBlock  Grid.Row="5" Text="Age:" x:Name="AgeL" VerticalAlignment="Center"  FontSize="22" />
+        <TextBox    Grid.Row="5" Grid.Column="1" x:Name="Age" InputScope="Number"/>
+
+        <TextBlock  Grid.Row="6" Text="Parents:" x:Name="ParentsL"  VerticalAlignment="Center"  FontSize="22" />
+        <TextBox    Grid.Row="6" Grid.Column="1" x:Name="Parents" InputScope="Number" />
+
+        <TextBlock  Grid.Row="7" Text="Siblings:" x:Name="SiblingsL"  VerticalAlignment="Center"  FontSize="22" />
+        <TextBox    Grid.Row="7" Grid.Column="1" x:Name="Siblings" InputScope="Number"   />
+
+        <TextBlock  Grid.Row="8" Text="Children:" x:Name="ChildrenL"  VerticalAlignment="Center"  FontSize="22" />
+        <TextBox    Grid.Row="8" Grid.Column="1" x:Name="Children"/>
+
+        <TextBlock  Grid.Row="9" Text="Spouse:" x:Name="SpouseL"  VerticalAlignment="Center"  FontSize="22" />
+        <CheckBox Grid.Row="9" Grid.Column="1" x:Name="Spouse" />
+
+        <Button x:ConnectionId='1' Grid.Row="10" Grid.ColumnSpan="2" x:Name="Submit" Content="Lets Find Out!" Margin="0,5.833,0,-5" Width="400" Height="75"                      />
+
+
+    </Grid>
+</Page>
+

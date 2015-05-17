@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\wouldisurvivethetitanic\wouldisurvivethetitanic\obj\release\intermediatexaml\wouldisurvivethetitanic.exe" HashGuid="ef953605-c387-3852-a9cc-b4f49add57e7" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\wouldisurvivethetitanic\packages\newtonsoft.json.6.0.4\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="02b12ba6-881e-6b8a-1687-5b2ee1851a11" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\wouldisurvivethetitanic\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\wouldisurvivethetitanic\packages\microsoft.aspnet.webapi.client.5.2.2\lib\portable-wp8+netcore45+net45+wp81+wpa81\system.net.http.formatting.dll" HashGuid="be2a4785-9a6a-e28d-8cef-3eb295a45d5a" />
+    <ReferenceAssembly PathName="c:\users\abornst\documents\visual studio 2013\projects\wouldisurvivethetitanic\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

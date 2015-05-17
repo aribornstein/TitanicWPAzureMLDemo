@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ABORNST-YOGA</Machine>
+    <WindowsUser>abornst</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>2f1a650d-3ec5-4868-b5c1-389583534b74</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\bin\Release\WouldISurviveTheTitanic.exe">
+      <PackagePath>WouldISurviveTheTitanic.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\bin\Release\WouldISurviveTheTitanic.exe.config">
+      <PackagePath>WouldISurviveTheTitanic.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\packages\Newtonsoft.Json.6.0.4\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\packages\Microsoft.AspNet.WebApi.Client.5.2.2\lib\portable-wp8+netcore45+net45+wp81+wpa81\System.Net.Http.Formatting.dll">
+      <PackagePath>System.Net.Http.Formatting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Square150x150Logo.scale-140.png">
+      <PackagePath>Assets\Square150x150Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Square150x150Logo.scale-240.png">
+      <PackagePath>Assets\Square150x150Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\StoreIcon.png">
+      <PackagePath>Assets\StoreIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\StorePromo.png">
+      <PackagePath>Assets\StorePromo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\bin\Release\WouldISurviveTheTitanic.xr.xml">
+      <PackagePath>WouldISurviveTheTitanic.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

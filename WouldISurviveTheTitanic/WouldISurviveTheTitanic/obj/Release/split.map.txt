@@ -1,0 +1,19 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-240"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\split.pri"			"resources.pri"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\WouldISurviveTheTitanic.xr.xml"			"WouldISurviveTheTitanic.xr.xml"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\MainPage.xbf"			"MainPage.xbf"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\WideLogo.scale-240.png"			"Assets\WideLogo.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\StorePromo.png"			"Assets\StorePromo.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\StoreLogo.scale-240.png"			"Assets\StoreLogo.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\StoreIcon.png"			"Assets\StoreIcon.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\Square71x71Logo.scale-240.png"			"Assets\Square71x71Logo.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\Square150x150Logo.scale-240.png"			"Assets\Square150x150Logo.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\SplashScreen.scale-240.png"			"Assets\SplashScreen.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\SmallLogo.scale-240.png"			"Assets\SmallLogo.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\Logo.scale-240.png"			"Assets\Logo.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\Assets\BadgeLogo.scale-240.png"			"Assets\BadgeLogo.scale-240.png"
+"C:\Users\abornst\Documents\Visual Studio 2013\Projects\WouldISurviveTheTitanic\WouldISurviveTheTitanic\obj\Release\PackageLayout\App.xbf"			"App.xbf"
