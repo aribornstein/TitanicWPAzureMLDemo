@@ -92,7 +92,7 @@ namespace WouldISurviveTheTitanic
                     Instance = scoreData
                 };
 
-                const string apiKey = "13G1v9YaIEiul5gIgNnK4YlbSmS4WrFBRMBeN/j5NeIULKxU4Vy20G7tol+tsCwjgslIKFJmliWmBop8dqgdig=="; // Replace this with the API key for the web service
+                const string apiKey = ""; // Replace this with the API key for the web service
                 client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue( "Bearer", apiKey);
 
                 client.BaseAddress = new Uri("https://ussouthcentral.services.azureml.net/workspaces/54378d453f5e4741875b2cf3356155b3/services/c14025c2c095430ea2792e52a49f109f/score");
